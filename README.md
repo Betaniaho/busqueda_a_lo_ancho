@@ -19,4 +19,3 @@ La compilación del código da como salida el vector de vertices visitados por e
 ![salida](https://github.com/user-attachments/assets/8b843ed7-5854-4440-a293-045aff559552)
 
 El código puede ser mejorado u optimizado por el usuario final.
-![Imagen de WhatsApp 2025-11-08 a las 15 09 02_b57b68a3](https://github.com/user-attachments/assets/c4b0a396-2fba-42d9-b279-73cc0abe02c5)
