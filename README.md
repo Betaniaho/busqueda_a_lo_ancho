@@ -1,6 +1,6 @@
 # busqueda_a_lo_ancho_de_arbol_de_expansion
-Algoritmo en java para recorrer un árbol de expansión con el algoritmo de búsqueda a lo ancho.
-El código corresponde al pseudocódigo descrito en el libro de Matemáticas discretas sexta edición de Richard Johnsonbaugh.
+Este material fue desarrollado con fines educativos para la materia C0108020 Inteligencia Artificial de los programas de Estudios Ingeniería en Sistemas Computacionales e Ingeniería en Informática Administrativa por la Dra. Betania Hernández Ocaña, Dra. Juana Canul Reich.
+El objetivo es recorrer un árbol de expansión con el algoritmo de búsqueda a lo ancho. El código corresponde al pseudocódigo descrito en el libro de Matemáticas discretas sexta edición de Richard Johnsonbaugh.
 
 ![pseudocódigo_busqueda_a_lo_ancho](https://github.com/user-attachments/assets/b1bd4035-7b01-4db0-8907-b80737a7abab)
 
@@ -18,4 +18,9 @@ La compilación del código da como salida el vector de vertices visitados por e
 
 ![salida](https://github.com/user-attachments/assets/8b843ed7-5854-4440-a293-045aff559552)
 
+Conclusión:
+Los algoritmos de búsqueda son esenciales en la Ciencias de la Computación.
 El código puede ser mejorado u optimizado por el usuario final.
+
+Referencias:
+Johnsonbaugh Richard.(2005). Matemáticas discretas (6ta.Edi.). Pearson.
