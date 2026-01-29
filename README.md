@@ -1,4 +1,7 @@
 # busqueda_a_lo_ancho_de_arbol_de_expansion
+Introducción
+Los árboles forman una de las subclases de gráficas que más se utilizan. En particular, la ciencia de la computación hace uso de los árboles ampliamente. En computación, los árboles son útiles para organizar y relacionar datos en una base de datos. Los árboles surgen en problemas teóricos como el tiempo óptimo para ordenar. Uno de los algoritmos para recorrer un árbol es búsqueda a lo ancho, el cual busca procesar todos los vértices en un nivel dado antes de moverse al nivel más alto que sigue.
+
 Este material fue desarrollado con fines educativos para la materia C0108020 Inteligencia Artificial de los programas de Estudios Ingeniería en Sistemas Computacionales e Ingeniería en Informática Administrativa por la Dra. Betania Hernández Ocaña, Dra. Juana Canul Reich.
 El objetivo es recorrer un árbol de expansión con el algoritmo de búsqueda a lo ancho. El código corresponde al pseudocódigo descrito en el libro de Matemáticas discretas sexta edición de Richard Johnsonbaugh.
 
