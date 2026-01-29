@@ -14,7 +14,7 @@ El árbol debe cumplir con el teorema: Si T es una gráfica con n vértices, las
 
 • a) T es un árbol
 
-• b) Si v  y  w son vértices en T, existe una trayectoria simple única de v  a  w (definición de árbol).
+• b) Si v  y    w son vértices en T, existe una trayectoria simple única de v   a   w (definición de árbol).
 
 • c) T es conexa y acíclica.
 
